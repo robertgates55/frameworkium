@@ -36,7 +36,7 @@
     <groups/>
 
     <!-- Versions from frameworkium-core -->
-    <aspectj.version>1.9.6</aspectj.version>
+    <aspectj.version>1.9.7</aspectj.version>
     <allure.version>2.12.1</allure.version>
 
     <!-- Prevent encoding issues -->
